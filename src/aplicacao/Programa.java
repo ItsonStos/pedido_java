@@ -57,6 +57,7 @@ public class Programa {
 		System.out.println();
 		System.out.println("SUMARIO DO PEDIDO");
 		System.out.println(pedido);
+		System.out.println("Fim!");
 		
 
 
